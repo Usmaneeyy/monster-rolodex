@@ -1,0 +1,15 @@
+.search {
+    background-color: #078a85;
+    color: rgb(209, 233, 255);
+    border: none;
+    outline: none;
+    padding: 10px;
+    width: 150px;
+    line-height: 10px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+.search::placeholder {
+    color: rgb(174, 195, 214);
+}
